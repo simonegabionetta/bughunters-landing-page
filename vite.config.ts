@@ -4,6 +4,7 @@ import path from 'path';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
+  base: '/bughunters-landing-page/', 
   root: 'client', // Mantendo a pasta client como raiz
   plugins: [
     react(),       // JSX/TSX
