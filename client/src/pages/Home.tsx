@@ -27,7 +27,7 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between">
           <div className="flex items-center gap-2 sm:gap-3">
             <div className="w-10 sm:w-12 h-10 sm:h-12 rounded-full bg-gradient-to-br from-green-400/20 to-transparent border border-green-400/40 flex items-center justify-center flex-shrink-0 overflow-hidden" style={{clipPath: 'circle(50%)'}}>
-              <img src="/logo.png" alt="BugHunters" className="h-10 sm:h-12 w-10 sm:w-12 object-cover filter drop-shadow-lg" />
+              <img src="/bughunters-landing-page/logo.png" alt="BugHunters" className="h-10 sm:h-12 w-10 sm:w-12 object-cover filter drop-shadow-lg" />
             </div>
             <span className="text-lg sm:text-xl font-bold text-white">BugHunters</span>
           </div>
